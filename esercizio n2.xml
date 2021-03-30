@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<main>
+	<primo>
+	<!--[Fatal Error] esercizion2.xml:9:4: The element type "primo" must be terminated by the matching end-tag "</primo>". -->
+	<secondo> 
+		<terzo>
+		<!--[Fatal Error] esercizion2.xml:6:4: The element type "terzo" must be terminated by the matching end-tag "</terzo>". -->
+	</secondo>
+	</terzo>
+	</quarto>
+	<!-- [Fatal Error] esercizion2.xml:11:4: The element type "main" must be terminated by the matching end-tag "</main>". -->
+</main>
