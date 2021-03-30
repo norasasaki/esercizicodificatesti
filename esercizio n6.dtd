@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+[
+	 <!ELEMENT TEI (header, facsimile?, text+)>
+	 <!ELEMENT header (#PCDATA)>
+	 <!ELEMENT facsimile (#PCDATA)>
+	 <!ELEMENT text (#PCDATA)>
+     
+	 
+	 <!ATTLIST header type CDATA #FIXED "intestazione"
+					  lang NMTOKEN #IMPLIED
+	  >
+	 <!ATTLIST facsimile source CDATA #REQUIRED
+						 ref IDREFS #IMPLIED
+	 >
+	 <!ATTLIST testo id ID #REQUIRED
+					 type CDATA #IMPLIED
+	 >
+   ]
+
+>
+<TEI>
+	<header type="intestazione"> header è solo testo </header>
+	<facsimile source="http://www.qualcosa.com"> </facsimile>
+	<testo id="1">
+		potrebbe anche non esserci
+	</testo>
+</TEI>
