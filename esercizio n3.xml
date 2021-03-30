@@ -1,0 +1,21 @@
+<?xml version="1.1" encoding="UTF-8"?> 
+<docu>
+    <element>
+		<thisisachild> <!-- thisisachild è figlio di element-->
+		</thisisachild>
+		<thisisthisisachildsibling>
+		</thisisthisisachildsibling>
+		<!-- thisisthisisachildsibling è figlio di element ed è quindi fratello di thisisachild-->
+    </element>
+    <nowell>
+        <over>
+		</over>
+    </nowell>
+<!-- <nowell>
+        <over>
+    </noWell>
+        </over>
+	restituiva:
+	[Fatal Error] doc-no-well.xml:8:7: The element type "over" must be terminated by the matching end-tag "</over>" e
+	[Fatal Error] doc-no-well.xml:9:7: The element type "nowell" must be terminated by the matching end-tag "</nowell>"-->
+</docu>

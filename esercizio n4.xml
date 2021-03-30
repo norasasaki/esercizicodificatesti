@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<TEI type="doc">
+    <codehtml>
+        <![CDATA[ <h1>come funziona CDATA</h1>
+		<h2>questo è un testo semplice, non conta come codice
+		le parti html</h2> ]]>
+    </codehtml>
+
+</TEI>
