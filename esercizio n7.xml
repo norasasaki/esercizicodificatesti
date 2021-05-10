@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-model href="tei-lite.rng"?>
+
+<!DOCTYPE TEI
+    
+    [
+	 <!ELEMENT TEI (header, facsimile?, text+)>
+	 <!ELEMENT header (#PCDATA)>
+	 <!ELEMENT facsimile (#PCDATA)>
+	 <!ELEMENT text (#PCDATA)>
+     
+    ]
+
+>
+<TEI type="doc" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<FileDesc>
+			<titleStmt>
+			<title> The Last Answer formatted</title>
+			<author> Isaac Asimov</author>
+			<respStmt>
+				<resp>formattato da </resp>
+				<name>Eleonora Piancatelli</name>
+			</respStmt>
+			</titleStmt>
+			<publicationStms>
+				<publisher> Eleonora Piancatelli</publisher>
+				<dare value="8/05/2021">8/05/2021 </dare>
+				<availability>
+				<p>Gratis senza scopo di lucro.</p>
+				</availability>
+			</publicationStms>
+			<sourceDesc>
+				<bibl>
+					<title>The Last Answer</title>
+					<author> Isaac Asimov</author>
+					<publisher> Thrivenotes</publisher>
+					<date>10/07/2010</date>
+				</bibl>
+			</sourceDesc>
+			<profileDesc>
+				<creation>
+					<date value="xx-xx-1980">1980</date>
+				</creation>
+				<langUsage>
+					<language id="ENG">Inglese</language>
+				</langUsage>
+			</profileDesc>
+		</FileDesc>
+	</teiHeader>
+	
+	
+	
+    <text>
+		<front></front>
+		<body>
+			<div>
+				<p>
+					Murray Templeton was forty-five years old, in the prime of life, and with all parts of his body in perfect
+					working order except for certain key portions of his coronary arteries, but that was enough.
+				</p>
+				<p>
+					The pain had come suddenly, had mounted to an unbearable peak, and had then ebbed steadily. He could
+					feel his breath slowing and a kind of gathering peace washing over him.
+				</p>
+				<p>
+					There is no pleasure like the absence of pain – immediately after pain.  Murray felt an almost giddy
+					lightness as though he were lifting in the air and hovering.
+				</p>
+				<p>
+					He opened his eyes and noted with distant amusement that the others in the room were still agitated.
+					He had been in the laboratory when the pain had struck, quite without warning, and when he had staggered,
+					he had heard surprised outcries from the others before everything vanished into overwhelming agony.
+				</p>
+				<p>
+					Now, with the pain gone, the others were still hovering, still anxious, still gathered about his fallen body ––
+					Which, he suddenly realised, he was looking down on.
+				</p>
+				<p>
+					He was down there, sprawled, face contorted.  He was up here, at peace and watching.
+				</p>
+				<p>
+					He thought:<q type ="pensato">Miracle of miracles! The life-after-life nuts were right.</q>
+				</p>
+				<p>
+					And although that was a humiliating way for an atheistic physicist to die, he felt only the mildest surprise,
+					and no alteration of the peace in which he was immersed.
+				</p>
+				<p>
+					He thought: <q type ="pensato">There should be some angel – or something – coming for me.</q>
+				</p>
+				<p>
+					The Earthly scene was fading.  Darkness was invading his consciousness and off in a distance, as a last
+					glimmer of sight, there was a figure of light, vaguely human in form, and radiating warmth.
+				</p>
+				<p>
+					Murray thought: <q type="pensato"> What a joke on me.  I’m going to Heaven.</q>
+				</p>
+				<p>
+					Even as he thought that, the light faded, but the warmth remained.  There was no lessening of the peace
+					even though in all the Universe only he remained – and the Voice.
+				</p>
+				<p>
+					The Voice said, <q type="diretto"> “I have done this so often and yet I still have the capacity to be pleased at success."</q>
+				</p>
+				<p>
+				It was in Murray’s mind to say something, but he was not conscious of possessing a mouth, tongue, or
+				vocal chords. Nevertheless, tried to make a sound. He tried, mouthlessly, to hum words or breathe them or
+				just push them out by a contraction of – something.
+				</p>
+				<p>
+					And they came out.  He heard his own voice, quite recognisable, and his own words, infinitely clear.
+				</p>
+				<p>
+					Murray said,<q type="diretto"> “Is this Heaven?”</q>
+				</p>
+				<p>
+					The Voice said, <q type="diretto"> “This is no place as you understand place.”</q>
+				</p>
+				<p>
+					Murray was embarrassed, but the next question had to be asked.<q type="diretto"> “Pardon me if I sound like a jackass.  Are you God?”</q> 
+				</p>
+				<p>
+					Without changing intonation or in any way marring the perfection of the sound, the Voice managed to sound amused. 
+					<q type="diretto">“It is strange that I am always asked that in, of course, an infinite number of ways. There is no answer I can give that you would comprehend. <emph rend="italic">I am</emph> – which is all that I can say significantly and you
+					may cover that with any word or concept you please.”</q>
+				</p>
+				<p>
+					Murray said, <q type="diretto">“And what am I?  A soul?  Or am I only personified existence too?”</q> He tried not to sound
+					sarcastic, but it seemed to him that he had failed. He thought then, fleetingly, of adding a ‘Your Grace’ or
+					Holy One’ or <emph rend="italic">something</emph> to counteract the sarcasm, and could not bring himself to do so even though for
+					the first time in his existence he speculated on the possibility of being punished for his insolence – or sin? – with Hell, and what that might be like.
+				</p>
+				<p>
+					The Voice did not sound offended.<q type="diretto"> “You are easy to explain – even to you.  You may call yourself a soul if that pleases you, but what you are is a nexus of electromagnetic forces, so arranged that all the
+					interconnections and interrelationships are exactly imitative of those of your brain in your
+					Universe-existence – down to the smallest detail.  Therefore you have your capacity for thought, your memories, your
+					personality. It still seems to you that you are you.”</q>
+				</p>
+				<p>
+					Murray found himself incredulous.  <q type="diretto">“You mean the essence of my brain was permanent?”</q>
+				</p>
+				<p>
+					<q type ="diretto">“Not at all.  There is nothing about you that is permanent except what I choose to make so.  I formed the nexus.  I constructed it while you had physical existence and adjusted it to the moment when the existence failed.”</q>
+				</p>
+				<p>
+					The Voice seemed distinctly pleased with itself, and went on after a moment’s pause.<q type="diretto"> “An intricate but
+					entirely precise construction. I could, of course, do it for every human being on your world but I am pleased
+					that I do not. There is pleasure in the selection.”</q>
+				</p>
+			</div>
+		</body>
+		
+		<back></back>
+	</text>
+
+</TEI>
