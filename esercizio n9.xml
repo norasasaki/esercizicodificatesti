@@ -12,10 +12,10 @@
 			</respStmt>
 			</titleStmt>
 			<publicationStms>
-				<publisher> Eleonora Piancatelli</publisher>
+				<publisher> Focus.it</publisher>
 				<dare value="8/05/2021">25/05/2021 </dare>
 				<availability status="free">
-					<p>Gratis senza scopo di lucro.</p>
+					<p>This is an open-access article distributed under the terms of the Creative Commons Attribution License.</p>
 				</availability>
 			</publicationStms>
 			<sourceDesc>
@@ -54,11 +54,11 @@
 				<p>
 					<emph rend ="blod">UN MISTERO ANCORA DA SCIOGLIERE<pc join="left">.</pc></emph> La motivazione a indagare
 					situazioni ignote è considerata fondamentale tanto quanto gli istinti di sopravvivenza di base<pc join="left">:</pc> è infatti il prerequisito evolutivo
-					dell'apprendimento complesso <pc join="right">(</pc>quello che coinvolge le <distinct>funzioni cognitive</distinct>
+					dell'apprendimento complesso <pc join="right">(</pc>quello che coinvolge le <term>funzioni cognitive</term>
 					superiori<pc join="left">,</pc> come l'intelligenza e la creatività<pc join="left">)</pc><pc join="left">.</pc>
 					Tuttavia gli studi sulle basi neurologiche della curiosità non hanno finora
 					portato a scoperte epocali<pc join="left">.</pc> La maggior parte delle ricerche si era
-					concentrata sui <distinct>centri neurali</distinct> che governano il meccanismo della 
+					concentrata sui <term>centri neurali</term> che governano il meccanismo della 
 					ricompensa<pc join="left">,</pc> la ricerca di situazioni gratificanti<pc join="left">.</pc> Ma la curiosità alimenta la 
 					sete di esplorazione anche quando non ci si aspetta nessun <soCalled>"premio finale"</soCalled>,
 					e persino in condizioni potenzialmente rischiose<pc join="left">.</pc>
@@ -70,7 +70,7 @@
 					valutare in che misura i topi interagissero con oggetti nuovi o familiari<pc join="left">,</pc> con
 					la possibilità di osservare e modulare nel frattempo la loro attività cerebrale<pc join="left">.</pc>
 					L'attenzione dei ricercatori si è ben presto indirizzata su una
-					<distinct>popolazione di neuroni</distinct> della <emph rend ="italic">zona incerta</emph><pc join="left">,</pc> che fa parte di una struttura
+					<term>popolazione di neuroni</term> della <emph rend ="italic">zona incerta</emph><pc join="left">,</pc> che fa parte di una struttura
 					cerebrale profonda<pc join="left">,</pc> il subtalamo<pc join="left">;</pc> questo gruppo di cellule è parso infatti
 					incaricato di motivare i topi a esplorare nuovi oggetti e interagire con altri
 					loro simili appena conosciuti<pc join="left">.</pc>
@@ -78,14 +78,14 @@
 				<p>
 					I neuroni individuati sembrano inoltre assegnare <emph rend ="bold">un valore intrinseco alle
 					nuove esperienze</emph> a prescindere dalle previsioni sul loro esito<pc join="left">,</pc> e
-					promuovono i comportamenti esplorativi <distinct>inibendo</distinct> un'altra <distinct>regione
-					cerebrale </distinct>
+					promuovono i comportamenti esplorativi <term>inibendo</term> un'altra <term>regione
+					cerebrale </term>
 					implicata invece nei comportamenti motivati o nelle risposte
 					ai pericoli<pc join="left">.</pc>
 				</p>
 				<p>
 					<emph rend ="blod">SIAMO APPENA ALL'INIZIO<pc join="left">.<</pc></emph> Disattivando questi neuroni con tecniche di
-					<distinct>optogenetica</distinct><pc join="left">,</pc> cioè usando impulsi luminosi su cellule geneticamente
+					<term>optogenetica</term><pc join="left">,</pc> cioè usando impulsi luminosi su cellule geneticamente
 					marcate per rispondere alla luce<pc join="left">,</pc> la curiosità dei topi <emph rend ="italic">si è placata</emph><pc join="left">:</pc>
 					i comportamenti esplorativi si sono ridotti nella durata e si sono fatti più
 					superficiali<pc join="left">.</pc> Anche se le basi neurali che guidano la curiosità nell'uomo
