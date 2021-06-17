@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TEI type="doc"  xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0"
+	 xmlns:rng="http://relaxng.org/ns/structure/1.0" >
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+			<title> Frammento Lettera</title>
+			<author> Vincenzo Bellini</author>
+			<date when="26/06/1834">26/06/1834</date>
+			<respStmt>
+				<resp>formattato da </resp>
+				<name>Eleonora Piancatelli</name>
+			</respStmt>
+			</titleStmt>
+			<profileDesc>
+				<langUsage>
+					<language id="ITA">Italiano</language>
+				</langUsage>
+			</profileDesc>
+		</fileDesc>
+	</teiHeader>
+	
+	
+	
+    <text>
+		<body>
+			<front>
+				<date when="26/06"><abbr>Jun</abbr> <num value="26">26</num></date><pc>:</pc><placeName>Puteau</placeName><abbr>N</abbr><pc>:</pc><pc>°</pc> <num value="19">19</num> bis
+				de <w rend="underline">Neuilly</w>
+			</front>
+			<p>
+					Mio caro <persName><forename><choice><reg>Carlo</reg><orig>Carluccio</orig></choice></forename></persName>
+					<br/>
+					avendo steso l'intero duetto
+			</p>
+		</body>
+	</text>
+
+</TEI>
